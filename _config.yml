@@ -28,7 +28,7 @@ back_to_top: true # set to false to disable the back to top button
 repo_theme_light: default # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
 repo_theme_dark: dark # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
 repo_trophies:
-  enabled: true
+  enabled: false
   theme_light: flat # https://github.com/ryo-ma/github-profile-trophy
   theme_dark: gitdimmed # https://github.com/ryo-ma/github-profile-trophy
 
@@ -43,11 +43,11 @@ repo_trophies:
 # -----------------------------------------------------------------------------
 
 navbar_fixed: true
-footer_fixed: true
-search_enabled: true
-socials_in_search: true
-posts_in_search: true
-bib_search: true
+footer_fixed: false
+search_enabled: false
+socials_in_search: false
+posts_in_search: false
+bib_search: false
 
 # Dimensions
 max_width: 930px
@@ -87,12 +87,12 @@ blog_description: a website on Samuel M. Maione
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
-# Pagination
+# Pagination (not sure what this is? -SM)
 pagination:
-  enabled: true
+  enabled: false
 
 related_blog_posts:
-  enabled: true
+  enabled: false
   max_related: 5
 
 # Giscus comments (RECOMMENDED)
@@ -141,13 +141,14 @@ newsletter:
 
 collections:
   books:
-    output: true
+    output: false
   news:
     defaults:
       layout: post
-    output: true
+    output: false
   projects:
     output: true
+    # sm
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
@@ -286,7 +287,7 @@ scholar:
 
 # Display different badges withs stats for your publications
 # Customize badge behavior in _layouts/bib.liquid
-enable_publication_badges:
+enable_publication_badges: false # sm
   altmetric: true # Altmetric badge (Customization options: https://badge-docs.altmetric.com/index.html)
   dimensions: true # Dimensions badge (Customization options: https://badge.dimensions.ai/)
   google_scholar: true # Google Scholar badge (https://scholar.google.com/intl/en/scholar/citations.html)
