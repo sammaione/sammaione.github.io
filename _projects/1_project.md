@@ -1,11 +1,11 @@
 ---
 layout: page
 title: project 1
-description: with background image
-img: assets/img/12.jpg
+description: letters is a grassroots community that organizes a biannual self-titled zine featuring a collection of political essays, commentary, and creative works written by the public, for the public.
+img: assets/publication_preview/letterslogo.png
 importance: 1
-category: work
-related_publications: true
+category: creative
+related_publications: false
 ---
 
 Every project has a beautiful feature showcase page.
