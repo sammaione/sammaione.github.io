@@ -13,5 +13,3 @@ My partner, Emily, and I created _letters_, a grassroots community that organize
 I am so thankful to my friends and strangers alike who took interest with this project.
 
 Please see our Wordpress, here: . You may also be able to pick up a copy of our Zine at your local anarchist bookstore or coffee co-operation.
-
-{% endraw %}
