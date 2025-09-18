@@ -1,6 +1,6 @@
 ---
 layout: page
-title: project 1
+title: letters
 description: letters is a grassroots community that organizes a biannual self-titled zine featuring a collection of political essays, commentary, and creative works written by the public, for the public.
 img: assets/img/LettersHeaderBW.png
 importance: 1
@@ -12,6 +12,6 @@ My partner, Emily, and I created _letters_, a grassroots community that organize
 
 I am so thankful to my friends and strangers alike who took interest with this project.
 
-Please see our Wordpress, here: https://letterspublication.wordpress.com/. You may also be able to pick up a copy of our Zine at your local anarchist bookstore or coffee co-operation.
+Please see our Wordpress, here: . You may also be able to pick up a copy of our Zine at your local anarchist bookstore or coffee co-operation.
 
 {% endraw %}
