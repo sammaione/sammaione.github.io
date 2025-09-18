@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Social psychologist applicant. Current lab-tech / lab manager.
+subtitle: Social psychology applicant. Current lab-tech / lab manager.
 
 profile:
   align: right
@@ -24,4 +24,4 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Thank you for visiting my website!
+Thank you for visiting my website. I graduated from SUNY Binghamton in 2023 with a BSc in Integrative Neuroscience. I joined [Dr. Shari Liu's lab](https://www.liulaboratory.org/) at Johns Hopkins Univeristy, where I became enamored with socially oriented cognitive psychology. I am interested in the way we think about groups--in particular, institutions and coalitions--and when and why we prioritize one over the other. For example, why do some people tend to believe a coalition member over an entire army of institutional agents? In understanding powerful groups like institutions and coalitions, I hope to better understand why so much of the United States is so distrustful of instititutions at large. 
