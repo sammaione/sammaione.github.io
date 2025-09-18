@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: These are the projects I work on. I am so fortunate to be gifted with such amazing friends, coworkers, and mentors to help me turn these ideas into reality.
 nav: true
 nav_order: 3
 display_categories: [science, creative]
