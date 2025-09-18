@@ -39,8 +39,8 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
+          section: "News",},{id: "projects-letters",
+          title: 'letters',
           description: "letters is a grassroots community that organizes a biannual self-titled zine featuring a collection of political essays, commentary, and creative works written by the public, for the public.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
