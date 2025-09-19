@@ -4,7 +4,7 @@ title: projects
 permalink: /projects/
 description: These are the projects I work on. I am so fortunate to be gifted with such amazing friends, coworkers, and mentors to help me turn these ideas into reality. I am happy to discuss any of these in greater detail (seriously, please ask me!).
 nav: true
-nav_order: 2
+nav_order: 1
 display_categories: [science, creative]
 horizontal: true
 ---
