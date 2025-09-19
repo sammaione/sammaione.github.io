@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Cignal
-description: An app that neatly compiles US legislation in one place and uses (local) LLM to summarize each article. 
+description: An app that neatly compiles US legislation in one place and uses a (local) LLM to summarize each article. 
 img: assets/img/cignal.jpg
 importance: 2
 category: creative
