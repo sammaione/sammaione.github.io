@@ -5,7 +5,7 @@ permalink: /
 subtitle: Social psychology applicant. Current lab-tech / lab manager.
 
 profile:
-  align: right
+  align: left
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: 
@@ -23,8 +23,6 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-
-Thank you for visiting my website. 
 
 **Professional summary.** I graduated from SUNY Binghamton in 2023 with a BSc in Integrative Neuroscience, where I earned the [Steven W. Kovacs Memorial Award](https://www.binghamton.edu/psychology/undergraduate/undergraduate-awards.html#Kovacs) and [Undergraduate Research Award](https://www.binghamton.edu/student-research-and-scholarship/undergraduate-research/funding-and-awards/undergrad-research-award.html) for my passion towards psychological research as a volunteer research assistant in [Dr. Peter Gerhardstein's lab](https://www.binghamton.edu/psychology/labs/baby/). After graduating, I joined [Dr. Shari Liu's lab](https://www.liulaboratory.org/) at Johns Hopkins Univeristy as a full-time laboratory technician / lab manager. Here, we study the way people navigate the social and physical world through neuroimaging, behavioral tests, and developmental studies. While working in the Liulab, I worked with my undergraduate lab to turn my honors thesis into a publication that was recently accepted in [Frontiers of Neurology](https://osf.io/preprints/psyarxiv/689cm_v1). My first authored paper with Dr. Liu that tests whether human intuitive physical reasoning and goal directed attention rely on shared or distinct neural resources will be submitted for publication in the next few weeks.
 
