@@ -42,14 +42,14 @@ ninja.data = [{
           description: "An app that neatly compiles US legislation in one place and uses (local) LLM to summarize each article.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
-            },},{id: "projects-shared-neural-resources-between-processing-of-dynamic-physical-objects-and-spatial-working-memory",
-          title: 'Shared neural resources between processing of dynamic physical objects and spatial working memory...',
-          description: "Traditionally thought of as separate domains of cognition, we provide a case for a relationship between physical reasoning and spatial working memory.",
+            },},{id: "projects-neural-case-for-physical-reasoning-and-working-memory",
+          title: 'Neural Case for Physical Reasoning and Working Memory',
+          description: "(Maione &amp; Liu, in prep). Traditionally thought of as separate domains of cognition, we provide a case for a relationship between physical reasoning and spatial working memory.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
             },},{id: "projects-colorado-visual-snow-survey-2-0",
           title: 'Colorado Visual Snow Survey 2.0',
-          description: "another without an image",
+          description: "(Maione, Pelak, Gehardstein, 2025). We propose a new tool to assess the symptom profile of visual snow syndrome.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
             },},{id: "projects-project-5",
