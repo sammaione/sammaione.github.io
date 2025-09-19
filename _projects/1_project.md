@@ -1,7 +1,7 @@
 ---
 layout: page
 title: letters
-description: letters is a grassroots community that organizes a biannual self-titled zine featuring a collection of political essays, commentary, and creative works written by the public, for the public.
+description: A grassroots community that organizes a biannual self-titled zine featuring a collection of political essays, commentary, and creative works written by the public, for the public.
 img: assets/img/letterslogo.png
 importance: 1
 category: creative
