@@ -11,7 +11,7 @@ ninja.data = [{
     },
   },{id: "nav-projects",
           title: "projects",
-          description: "These are the projects I work on. I am so fortunate to be gifted with such amazing friends, coworkers, and mentors to help me turn these ideas into reality. I am happy to discuss any of these in greater detail (seriously, please ask me!).",
+          description: "These are the projects I work on. I am so fortunate to be gifted with such amazing friends, coworkers, and mentors to help me turn these ideas into reality. I am happy to discuss any of these in greater detail (seriously, please ask me!). Each project has more information on its respective page.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
@@ -39,11 +39,11 @@ ninja.data = [{
               window.location.href = "/projects/1_project/";
             },},{id: "projects-cignal",
           title: 'Cignal',
-          description: "An app that neatly compiles US legislation in one place and uses (local) LLM to summarize each article.",
+          description: "An app that neatly compiles US legislation in one place and uses a (local) LLM to summarize each article.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
-            },},{id: "projects-neural-case-for-physical-reasoning-and-working-memory",
-          title: 'Neural Case for Physical Reasoning and Working Memory',
+            },},{id: "projects-shared-neural-regions-for-physical-reasoning-and-working-memory",
+          title: 'Shared Neural Regions for Physical Reasoning and Working Memory',
           description: "(Maione &amp; Liu, in prep). Traditionally thought of as separate domains of cognition, we provide a case for a relationship between physical reasoning and spatial working memory.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
