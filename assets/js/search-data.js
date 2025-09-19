@@ -47,9 +47,9 @@ ninja.data = [{
           description: "Traditionally thought of as separate domains of cognition, we provide a case for a relationship between physical reasoning and spatial working memory.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
-            },},{id: "projects-",
-          title: '',
-          description: "",
+            },},{id: "projects-colorado-visual-snow-survey-2-0",
+          title: 'Colorado Visual Snow Survey 2.0',
+          description: "another without an image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
             },},{id: "projects-project-5",
