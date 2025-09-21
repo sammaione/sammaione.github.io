@@ -1,7 +1,7 @@
 ---
-layout: redirected
+layout: default
+permalink: assets/pdf/example_pdf.pdf
 title: cv
-permalink: /cv/
+nav: true
 nav_order: 2
-redirect_to: https://docs.google.com/document/d/1BYzmhz1AdYwH0BgicaXC7FKoBGYdZsyGA2djUgxvEpg/edit?usp=sharing
 ---
