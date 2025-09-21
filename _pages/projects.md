@@ -6,7 +6,7 @@ description: These are the projects I work on. I am so fortunate to be gifted wi
 nav: true
 nav_order: 1
 display_categories: [publications, creative]
-horizontal: true
+horizontal: false
 ---
 
 <!-- pages/projects.md -->
