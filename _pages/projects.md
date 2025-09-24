@@ -5,8 +5,11 @@ permalink: /projects/
 nav: true
 id: 1
 ---
+
+{% include project_custom.liquid %}
+
 ##### __test 123__
-<img class="fig" src="/_assets/img/overlay_1.png" width="260">
+<img class="fig" src="assets/img/overlay_1.png" width="260">
 _Authors: test test_
 
 123 123 asdf
