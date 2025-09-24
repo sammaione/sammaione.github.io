@@ -8,7 +8,7 @@ id: 1
 
 These are the projects I am currently associated with. I am so thankful for my coworkers, friends, and mentors that help make these projects into a reality.
 
-<div class="card mb-3" style="max-width: 1280px;">
+<div class="card mb-3" style="max-width: 1280px; card-cap-padding-x: 50; card-cap-padding-y: 50px;">
   <div class="row no-gutters">
     <div class="col-md-4">
       <img src="/assets/img/overlay_1.png" class="card-img" alt="Image of a brain.">
@@ -30,7 +30,7 @@ These are the projects I am currently associated with. I am so thankful for my c
 
 
 
-<div class="card mb-3" style="max-width: 1280px; card-cap-padding-x: 50; card-cap-padding-y: 50px;">
+<div class="card mb-3" style="max-width: 1280px; card-cap-padding-x: 500; card-cap-padding-y: 500px;">
   <div class="row no-gutters">
     <div class="col-md-4">
       <img src="/assets/img/vss.png" class="card-img" alt="Visual Snow Initiative logo.">
@@ -51,7 +51,7 @@ These are the projects I am currently associated with. I am so thankful for my c
 
 
 
-<div class="card mb-3" style="max-width: 1280px; card-group-margin: 50px;">
+<div class="card mb-3" style="max-width: 1280px; card-cap-padding-x: 50; card-cap-padding-y: 50px;">
   <div class="row">
     <div class="col-md-4">
       <img src="/assets/img/letterslogo.png" class="card-img" alt="letters logo.">
@@ -71,7 +71,7 @@ These are the projects I am currently associated with. I am so thankful for my c
 
 
 
-<div class="card mb-3" style="max-width: 1280px;">
+<div class="card mb-3" style="max-width: 1280px; card-cap-padding-x: 50; card-cap-padding-y: 50px;">
   <div class="row">
     <div class="col-md-4">
       <img src="/assets/img/cignal.png" class="card-img" alt="Cignal logo.">
