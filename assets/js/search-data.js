@@ -11,7 +11,7 @@ ninja.data = [{
     },
   },{id: "nav-projects",
           title: "projects",
-          description: "These are the projects I work on. I am so fortunate to be gifted with such amazing friends, coworkers, and mentors to help me turn these ideas into reality. I am happy to discuss any of these in greater detail (seriously, please ask me!). Each project has more information on its respective page.",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
@@ -56,7 +56,7 @@ ninja.data = [{
               window.location.href = "/projects/3_project/";
             },},{id: "projects-colorado-visual-snow-survey-2-0",
           title: 'Colorado Visual Snow Survey 2.0',
-          description: "(Maione, Pelak, Gehardstein, 2025). We propose a new tool to assess the symptom profile of visual snow syndrome.",
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
             },},{id: "projects-project-5",
