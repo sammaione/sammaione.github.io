@@ -1,12 +1,11 @@
 ---
-layout: jo_lab_custom
+---
+layout: project_custom
 title: projects
 permalink: /projects/
 nav: true
 id: 1
 ---
-
-{% include project_custom.liquid %}
 
 ##### __test 123__
 <img class="fig" src="assets/img/overlay_1.png" width="260">
