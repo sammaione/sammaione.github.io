@@ -6,8 +6,25 @@ nav: true
 id: 1
 ---
 
+<div class="card mb-3" style="max-width: 540px;">
+  <div class="row no-gutters">
+    <div class="col-md-4">
+      <img src="/assets/img/overlay_1.png" class="card-img" alt="Image of a brain.">
+    </div>
+    <div class="col-md-8">
+      <div class="card-body">
+        <h5 class="card-title">Card title</h5>
+        <p class="card-text">Prior literature identifies regions of the human frontal and parietal cortex that respond during tasks of physical reasoning, as well as other tasks demanding attentional control, including in individual participants. This leaves open the question whether the neural substrates for domain general attentional demand support physical reasoning, whether the neural substrates for physical reasoning support attentional control, or both. Here, we analyzed an open fMRI dataset in which 28 human adults (i) made physical judgements about dynamic videos of inanimate objects and a closely matched social condition featuring animate agents, and (ii) performed a relatively difficult vs easy spatial working memory task. Using a subject-specific functional region of interest (fROI) approach, we found an asymmetry between responses of fROIs maximally engaged by demanding spatial working memory, which responded equally to social and physical processing, and fROIs maximally engaged by physical processing, which responded more to difficult than easy spatial working memory. Furthermore, univariate activity in fROIs engaged during physical processing predicted individual subjects’ performance on the spatial working memory task. Together, these results suggest a relationship between the frontoparietal cortex engaged during physical reasoning and either visuospatial processing in particular, or attentionally demanding tasks in general. </p>
+        <p class="card-text"><small class="text-muted">Authors: Samuel Maione & Shari Liu</small></p>
+      </div>
+    </div>
+  </div>
+</div>
+
+---
 ##### Shared neural resources between processing of dynamic physical objects and spatial working memory
-_Authors: Samuel Maione & Shari Liu_ [[OSF](https://osf.io/7mtk8/)] [[Conference abstract](https://2024.ccneuro.org/pdf/529_Paper_authored_Authored_Frontoparietal-regions-engaged-in-physical-prediction.pdf)] [[Poster](https://drive.google.com/file/d/1Vd9YlzkjnQFcXEGTARrBPJUWish5i7AB/view?usp=sharing)]
+_Authors: Samuel Maione & Shari Liu_ 
+[[OSF](https://osf.io/7mtk8/)] [[Conference abstract](https://2024.ccneuro.org/pdf/529_Paper_authored_Authored_Frontoparietal-regions-engaged-in-physical-prediction.pdf)] [[Poster](https://drive.google.com/file/d/1Vd9YlzkjnQFcXEGTARrBPJUWish5i7AB/view?usp=sharing)]
 
 <article>
 {% capture sizes %}(min-width: {{ site.max_width }}) {{ site.max_width | minus: 30 | times: 0.3}}px, (min-width: 576px)
@@ -23,7 +40,8 @@ Prior literature identifies regions of the human frontal and parietal cortex tha
 ---
 
 ##### Assessment of a Novel Patient Reported Outcome Measure for Visual Snow Syndrome: The Colorado Visual Snow Survey 2.0 
-_Authors: Samuel Maione, Victoria Pelak, Peter Gerhardstein_ [[OSF](https://osf.io/x5sru/)] [[PsyArXiv](https://osf.io/preprints/psyarxiv/689cm_v1)]
+_Authors: Samuel Maione, Victoria Pelak, Peter Gerhardstein_ 
+[[OSF](https://osf.io/x5sru/)] [[PsyArXiv](https://osf.io/preprints/psyarxiv/689cm_v1)]
 
 <img class="fig" src="/assets/img/vss.png" width="260">
 
@@ -32,7 +50,8 @@ Visual snow syndrome (VSS) is a condition in which people experience a continuou
 ---
 
 #### letters
-_Authors: Samuel Maione & Emily Sierzant_ [[Website](https://letterspublication.wordpress.com/)]
+_Authors: Samuel Maione & Emily Sierzant_ 
+[[Website](https://letterspublication.wordpress.com/)]
 
 <img class="fig" src="/assets/img/letterslogo.png" width="260">
 
@@ -41,7 +60,8 @@ My partner, Emily, and I created _letters_, a grassroots community that organize
 ---
 
 #### Cignal
-_Authors: Samuel Maione & Sawyer Daniels_ [[Repo](https://github.com/sammaione/civic_signal)]
+_Authors: Samuel Maione & Sawyer Daniels_ 
+[[Repo](https://github.com/sammaione/civic_signal)]
 
 <img class="fig" src="/assets/img/cignal.png" width="260">
 
