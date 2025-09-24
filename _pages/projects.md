@@ -6,6 +6,8 @@ nav: true
 id: 1
 ---
 
+These are the projects I am currently associated with. I am so thankful for my coworkers, friends, and mentors that help make these projects into a reality.
+
 <div class="card mb-3" style="max-width: 1280px;">
   <div class="row no-gutters">
     <div class="col-md-4">
@@ -26,7 +28,7 @@ id: 1
   </div>
 </div>
 
----
+
 
 <div class="card mb-3" style="max-width: 1280px;">
   <div class="row no-gutters">
@@ -47,7 +49,7 @@ id: 1
   </div>
 </div>
 
----
+
 
 <div class="card mb-3" style="max-width: 1280px;">
   <div class="row no-gutters">
@@ -58,7 +60,7 @@ id: 1
       <div class="card-body">
         <h5 class="card-title">letters</h5>
         <p class="card-text font-italic">Samuel Maione & Emily Sierzant</p>
-        <p class="card-text">My partner, Emily, and I created _letters_, a grassroots community that organizes a biannual self-titled zine featuring a collection of political essays, commentary, and creative works written by the public, for the public. Born out of the frustration in the ripples of the 2025 ICE raids, our goal is to empower everyday people into taking political stances. We also run an informal information network to keep one another informed.</p>
+        <p class="card-text">My partner, Emily, and I created <i>letters</i>, a grassroots community that organizes a biannual self-titled zine featuring a collection of political essays, commentary, and creative works written by the public, for the public. Born out of the frustration in the ripples of the 2025 ICE raids, our goal is to empower everyday people into taking political stances. We also run an informal information network to keep one another informed.</p>
         <p class="card-text">
         [<a href="https://letterspublication.wordpress.com/" class="text-primary">Website</a>]
         </p>
@@ -67,22 +69,20 @@ id: 1
   </div>
 </div>
 
----
+
 
 <div class="card mb-3" style="max-width: 1280px;">
-  <div class="row no-gutters">
-    <div class="col-md-4">
-      <img src="/assets/img/cignal.png" class="card-img" alt="Cignal logo.">
-    </div>
-    <div class="col-md-8">
-      <div class="card-body">
-        <h5 class="card-title">Cignal</h5>
-        <p class="card-text font-italic">Samuel Maione & Sawyer Daniels</p>
-        <p class="card-text">Cignal is the project my best friend, Sawyer, and I created to try and learn new programming skills while doing something we deemed as meaningful. The app is not complete yet, but it currently uses the US Congress's API to pull bills and scrape the text before feeding that to an Ollama model LLM (currently using Mistral 7B, probably will change). Some bills can literally be thousands of pages, so we feel using a LLM to summarize the bill is a worthwhile use of AI. However, we are mindful of the impact large computation centers (like the ones that host GPT5 API) can have on the environment, which is why we chose to use to Ollama models instead. These models can run on local computational resources, like ones own GPU (provided you have a compatible GPU). The app is currently based in Python, but it might be rewritten in Javascript in the future. Repo linked but currently private.</p>
-        <p class="card-text">
-        [<a href="https://letterspublication.wordpress.com/" class="text-primary">Repo</a>]
-        </p>
-      </div>
+  <div class="col-md-4">
+    <img src="/assets/img/cignal.png" class="card-img" alt="Cignal logo.">
+  </div>
+  <div class="col-md-8">
+    <div class="card-body">
+      <h5 class="card-title">Cignal</h5>
+      <p class="card-text font-italic">Samuel Maione & Sawyer Daniels</p>
+      <p class="card-text">Cignal is the project my best friend, Sawyer, and I created to try and learn new programming skills while doing something we deemed as meaningful. The app is not complete yet, but it currently uses the US Congress's API to pull bills and scrape the text before feeding that to an Ollama model LLM (currently using Mistral 7B, probably will change). Some bills can literally be thousands of pages, so we feel using a LLM to summarize the bill is a worthwhile use of AI. However, we are mindful of the impact large computation centers (like the ones that host GPT5 API) can have on the environment, which is why we chose to use to Ollama models instead. These models can run on local computational resources, like ones own GPU (provided you have a compatible GPU). The app is currently based in Python, but it might be rewritten in Javascript in the future. Repo linked but currently private.</p>
+      <p class="card-text">
+      [<a href="https://github.com/sammaione/civic_signal" class="text-primary">Repo</a>]
+      </p>
     </div>
   </div>
 </div>
