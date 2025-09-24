@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Colorado Visual Snow Survey 2.0
-description: (Maione, Pelak, Gehardstein, 2025). We propose a new tool to assess the symptom profile of visual snow syndrome.
+description: <script>Visual snow syndrome (VSS) is a condition in which people experience a continuous overlay of small dots atop their entire visual field. As a newly recognized condition, there is a gap in patient reported outcome measures (PROMs) that target VSS symptom impact. We sought to assess the Colorado Visual Snow Survey 2.0 (CVSS) as a possible PROM for VSS. In a convenience sample of undergraduate students and people with VSS recruited through the Visual Snow Initiative (N = 144), we found the CVSS (1) strongly differentiated people with VSS from healthy controls, (2) demonstrated high internal consistency, and (3) aside from visual static, the degree of night vision impairment, blue field entoptic phenomenon, and afterimages, and tinnitus (in that order) best predicted group membership. Overall, CVSS is a promising PROM that warrants further validation.</script>
 img: assets/img/vss.png
 importance: 4
 category: publications
