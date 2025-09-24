@@ -6,14 +6,14 @@ nav: true
 id: 1
 ---
 
-<div class="card mb-3" style="max-width: 540px;">
+<div class="card mb-3" style="max-width: 1280px;">
   <div class="row no-gutters">
     <div class="col-md-4">
       <img src="/assets/img/overlay_1.png" class="card-img" alt="Image of a brain.">
     </div>
     <div class="col-md-8">
       <div class="card-body">
-        <h5 class="card-title">Card title</h5>
+        <h5 class="card-title">Shared neural resources between processing of dynamic physical objects and spatial working memory</h5>
         <p class="card-text">Prior literature identifies regions of the human frontal and parietal cortex that respond during tasks of physical reasoning, as well as other tasks demanding attentional control, including in individual participants. This leaves open the question whether the neural substrates for domain general attentional demand support physical reasoning, whether the neural substrates for physical reasoning support attentional control, or both. Here, we analyzed an open fMRI dataset in which 28 human adults (i) made physical judgements about dynamic videos of inanimate objects and a closely matched social condition featuring animate agents, and (ii) performed a relatively difficult vs easy spatial working memory task. Using a subject-specific functional region of interest (fROI) approach, we found an asymmetry between responses of fROIs maximally engaged by demanding spatial working memory, which responded equally to social and physical processing, and fROIs maximally engaged by physical processing, which responded more to difficult than easy spatial working memory. Furthermore, univariate activity in fROIs engaged during physical processing predicted individual subjects’ performance on the spatial working memory task. Together, these results suggest a relationship between the frontoparietal cortex engaged during physical reasoning and either visuospatial processing in particular, or attentionally demanding tasks in general. </p>
         <p class="card-text"><small class="text-muted">Authors: Samuel Maione & Shari Liu</small></p>
       </div>
@@ -30,7 +30,7 @@ _Authors: Samuel Maione & Shari Liu_
 {% capture sizes %}(min-width: {{ site.max_width }}) {{ site.max_width | minus: 30 | times: 0.3}}px, (min-width: 576px)
 30vw, 95vw"{% endcapture %}
 {%
-  include figure.liquid loading="eager" path="/assets/img/overlay_1.png" class=profile_image_class sizes=sizes alt=page.profile.image
+  include figure.liquid loading="eager" path="/assets/img/overlay_1.png" class=profile_image_class sizes=0.3 alt=page.profile.image
   cache_bust=true
 %}
 
