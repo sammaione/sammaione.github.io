@@ -38,7 +38,7 @@ My partner, Emily, and I created _letters_, a grassroots community that organize
 
 #### Cignal
 
-<img class="fig" src="/assets/img/cignal.jpg" width="260">
+<img class="fig" src="/assets/img/cignal.png" width="260">
 
 _Authors: Samuel Maione & Sawyer Daniels_
 
