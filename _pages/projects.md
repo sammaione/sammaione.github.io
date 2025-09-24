@@ -1,5 +1,4 @@
 ---
----
 layout: project_custom
 title: projects
 permalink: /projects/
