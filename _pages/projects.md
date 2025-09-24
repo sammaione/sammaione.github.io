@@ -9,9 +9,16 @@ id: 1
 ##### Shared neural resources between processing of dynamic physical objects and spatial working memory
 _Authors: Samuel Maione & Shari Liu_ [[OSF](https://osf.io/7mtk8/)] [[Conference abstract](https://2024.ccneuro.org/pdf/529_Paper_authored_Authored_Frontoparietal-regions-engaged-in-physical-prediction.pdf)] [[Poster](https://drive.google.com/file/d/1Vd9YlzkjnQFcXEGTARrBPJUWish5i7AB/view?usp=sharing)]
 
-{% include figure.liquid loading="eager" path="/assets/img/overlay_1.png" class=projectfig % max-width=2}
+<article>
+{% capture sizes %}(min-width: {{ site.max_width }}) {{ site.max_width | minus: 30 | times: 0.3}}px, (min-width: 576px)
+30vw, 95vw"{% endcapture %}
+{%
+  include figure.liquid loading="eager" path="/assets/img/overlay_1.png" class=profile_image_class sizes=sizes alt=page.profile.image
+  cache_bust=true
+%}
 
 Prior literature identifies regions of the human frontal and parietal cortex that respond during tasks of physical reasoning, as well as other tasks demanding attentional control, including in individual participants. This leaves open the question whether the neural substrates for domain general attentional demand support physical reasoning, whether the neural substrates for physical reasoning support attentional control, or both. Here, we analyzed an open fMRI dataset in which 28 human adults (i) made physical judgements about dynamic videos of inanimate objects and a closely matched social condition featuring animate agents, and (ii) performed a relatively difficult vs easy spatial working memory task. Using a subject-specific functional region of interest (fROI) approach, we found an asymmetry between responses of fROIs maximally engaged by demanding spatial working memory, which responded equally to social and physical processing, and fROIs maximally engaged by physical processing, which responded more to difficult than easy spatial working memory. Furthermore, univariate activity in fROIs engaged during physical processing predicted individual subjects’ performance on the spatial working memory task. Together, these results suggest a relationship between the frontoparietal cortex engaged during physical reasoning and either visuospatial processing in particular, or attentionally demanding tasks in general. 
+</article>
 
 ---
 
