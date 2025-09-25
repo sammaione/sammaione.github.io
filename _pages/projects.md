@@ -9,10 +9,11 @@ id: 1
 These are the projects I am currently associated with. I am so thankful for my coworkers, friends, and mentors that help make these projects into a reality.
 
 <div class="card mb-3" style="max-width: 1280px;">
+  <div class="row justify-content-end">
   <div class="row no-gutters">
-    <div class="col-md-2">
+    <div class="col-md-3">
       <img src="/assets/img/overlay_1.png" class="card-img" alt="Image of a brain.">
-    </div>
+    </div></div>
     <div class="col-md-8">
       <div class="card-body">
         <h5 class="card-title">Shared neural resources between processing of dynamic physical objects and spatial working memory</h5>
@@ -32,7 +33,7 @@ These are the projects I am currently associated with. I am so thankful for my c
 
 <div class="card mb-3" style="max-width: 1280px;">
   <div class="row no-gutters">
-    <div class="col-md-5">
+    <div class="col-md-3">
       <img src="/assets/img/vss.png" class="card-img" alt="Visual Snow Initiative logo.">
     </div>
     <div class="col-md-8">
@@ -53,7 +54,7 @@ These are the projects I am currently associated with. I am so thankful for my c
 
 <div class="card mb-3" style="max-width: 1280px;">
   <div class="row no-gutters">
-    <div class="col-md-4">
+    <div class="col-md-3">
       <img src="/assets/img/letterslogo.png" class="card-img" alt="letters logo.">
     </div>
     <div class="col-md-8">
@@ -73,7 +74,7 @@ These are the projects I am currently associated with. I am so thankful for my c
 
 <div class="card mb-3" style="max-width: 1280px;">
   <div class="row no-gutters">
-    <div class="col-md-4">
+    <div class="col-md-3">
       <img src="/assets/img/cignal.png" class="card-img" alt="Cignal logo.">
     </div>
     <div class="col-md-8">
