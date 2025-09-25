@@ -8,6 +8,8 @@ id: 1
 
 These are the projects I am currently associated with. I am so thankful for my coworkers, friends, and mentors that help make these projects into a reality.
 
+---
+
 <div class="card bg-transparent mb-3" style="max-width: 1280px;">
   <div class="row justify-content-center">
     <div class="col-md-3">
@@ -28,10 +30,10 @@ These are the projects I am currently associated with. I am so thankful for my c
   </div>
 </div>
 
+---
 
-
-<div class="card mb-3" style="max-width: 1280px;">
-  <div class="row no-gutters">
+<div class="card bg-transparent mb-3" style="max-width: 1280px;">
+  <div class="row justify-content-center">
     <div class="col-md-3">
       <img src="/assets/img/vss.png" class="card-img" alt="Visual Snow Initiative logo.">
     </div>
@@ -49,10 +51,10 @@ These are the projects I am currently associated with. I am so thankful for my c
   </div>
 </div>
 
+---
 
-
-<div class="card mb-3" style="max-width: 1280px;">
-  <div class="row no-gutters">
+<div class="card bg-transparent mb-3" style="max-width: 1280px;">
+  <div class="row justify-content-center">
     <div class="col-md-3">
       <img src="/assets/img/letterslogo.png" class="card-img" alt="letters logo.">
     </div>
@@ -69,10 +71,10 @@ These are the projects I am currently associated with. I am so thankful for my c
   </div>
 </div>
 
+---
 
-
-<div class="card mb-3" style="max-width: 1280px;">
-  <div class="row no-gutters">
+<div class="card bg-transparent mb-3" style="max-width: 1280px;">
+  <div class="row justify-content-center">
     <div class="col-md-3">
       <img src="/assets/img/cignal.png" class="card-img" alt="Cignal logo.">
     </div>
