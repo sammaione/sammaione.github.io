@@ -10,8 +10,8 @@ These are the projects I am currently associated with. I am so thankful for my c
 
 <div class="card mb-3" style="max-width: 1280px;">
   <div class="row no-gutters">
-    <div class="col-md-4">
-      <ul class="nav justify-content-center"><div class="border bg-light"><img src="/assets/img/overlay_1.png" class="card-img" alt="Image of a brain."></div></ul>
+    <div class="col-md-2">
+      <img src="/assets/img/overlay_1.png" class="card-img" alt="Image of a brain.">
     </div>
     <div class="col-md-8">
       <div class="card-body">
@@ -32,8 +32,8 @@ These are the projects I am currently associated with. I am so thankful for my c
 
 <div class="card mb-3" style="max-width: 1280px;">
   <div class="row no-gutters">
-    <div class="col-md-4">
-      <div class="border bg-light"><img src="/assets/img/vss.png" class="card-img" alt="Visual Snow Initiative logo."></div>
+    <div class="col-md-5">
+      <img src="/assets/img/vss.png" class="card-img" alt="Visual Snow Initiative logo.">
     </div>
     <div class="col-md-8">
       <div class="card-body">
@@ -54,7 +54,7 @@ These are the projects I am currently associated with. I am so thankful for my c
 <div class="card mb-3" style="max-width: 1280px;">
   <div class="row no-gutters">
     <div class="col-md-4">
-      <div class="border bg-light"><img src="/assets/img/letterslogo.png" class="card-img" alt="letters logo."></div>
+      <img src="/assets/img/letterslogo.png" class="card-img" alt="letters logo.">
     </div>
     <div class="col-md-8">
       <div class="card-body">
@@ -74,7 +74,7 @@ These are the projects I am currently associated with. I am so thankful for my c
 <div class="card mb-3" style="max-width: 1280px;">
   <div class="row no-gutters">
     <div class="col-md-4">
-      <div class="border bg-light"><img src="/assets/img/cignal.png" class="card-img" alt="Cignal logo."></div>
+      <img src="/assets/img/cignal.png" class="card-img" alt="Cignal logo.">
     </div>
     <div class="col-md-8">
       <div class="card-body">
