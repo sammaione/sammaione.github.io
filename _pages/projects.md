@@ -9,8 +9,8 @@ id: 1
 These are the projects I am currently associated with. I am so thankful for my coworkers, friends, and mentors that help make these projects into a reality.
 
 <div class="card mb-3" style="max-width: 1280px;">
-  <div class="row justify-content-end">
-    <div class="col-md-3">
+  <div class="row justify-content-center">
+    <div class="col-md-4">
       <img src="/assets/img/overlay_1.png" class="card-img" alt="Image of a brain.">
     </div>
     <div class="col-md-8">
