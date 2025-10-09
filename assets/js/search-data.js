@@ -21,7 +21,7 @@ ninja.data = [{
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/assets/pdf/Maione_CV_Sep2025.pdf";
+            window.location.href = "/assets/pdf/Maione_CV_Oct2025.pdf";
           },
         },{id: "books-the-godfather",
           title: 'The Godfather',
