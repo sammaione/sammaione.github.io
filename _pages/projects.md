@@ -2,7 +2,7 @@
 layout: project_custom
 title: projects
 permalink: /projects/
-nav: true
+nav: false
 id: 1
 ---
 
