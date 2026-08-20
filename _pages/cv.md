@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: assets/pdf/Maione_CV_June2026.pdf
+permalink: assets/pdf/SamMaione_CV.pdf
 title: cv
 nav: true
 nav_order: 2
